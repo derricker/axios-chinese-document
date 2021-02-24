@@ -618,7 +618,7 @@ axios.get('/user?ID=12345');
 
 ## Credits
 
-axios深受Angular提供的、\$http服务的启发。 最终，axios是为了在Angular之外使用而提供独立的类似\$http服的务。
+axios深受Angular提供的、\$http服务的启发。 最终，axios是为了在Angular之外使用而提供独立的类似\$http的服务。
 
 ## 协议
 
